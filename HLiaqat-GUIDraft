@@ -5,7 +5,7 @@ import pygame_gui
 pygame.init()
 WIDTH, HEIGHT = 1200, 800
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Text Input in PyGame | BaralTech")
+pygame.display.set_caption("Text Input in PyGame")
 
 manager = pygame_gui.UIManager((1200, 800))
 
