@@ -27,8 +27,8 @@ HUZAIFA LIAQAT - Handled the working of GUI
 
 
 
-SYED AON RAZA - Handled opcodes for instructions XOR,AND,IMUL,IDIV
+SYED AON RAZA - Handled opcodes for instructions XOR,IMUL,IDIV
 
 
 
-UMAMA ZAINAB - Handled opcodes for instructions OR,SHIFT
+UMAMA ZAINAB - Handled opcodes for instructions OR,SHIFT,AND
